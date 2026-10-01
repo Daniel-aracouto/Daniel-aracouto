@@ -1,167 +1,129 @@
 # Hi, I'm Daniel Araújo 👋
 
-### Head of Technology & Intelligent Automation | Python • AI • RPA • Backend
+### Technology, Automation, Python and AI
 
-I build technology that turns repetitive business operations into **automated, scalable and reliable systems**.
+I'm a software engineer focused on automation and technology.
 
-Currently leading Technology & Intelligent Automation initiatives at **Integrarq**, combining software engineering, process automation and AI to solve real operational problems.
+Today I lead Technology and Intelligent Automation at **Integrarq**, where I spend most of my time building tools, integrations and automations that solve problems people actually have in their daily work.
 
-My focus is not automation for automation's sake - I like building solutions that **reduce manual work, improve reliability and give teams more time to focus on what actually matters.**
+A lot of what I build starts with the same question:
 
----
+**"Why are we still doing this manually?"**
 
-## 🚀 What I do
+Sometimes the answer is Python.  
+Sometimes it's an API.  
+Sometimes it's Selenium, a database, an AI model or a combination of all of them.
 
-```python
-daniel = {
-    "role": "Head of Technology & Intelligent Automation",
-    "focus": [
-        "Process Automation",
-        "Artificial Intelligence",
-        "Backend Development",
-        "Systems Integration",
-        "RPA",
-        "Operational Efficiency"
-    ],
-    "main_language": "Python",
-    "mindset": "Automate what can be automated. Simplify what can't."
-}
-```
+What matters to me is that the solution works, is maintainable and actually makes someone's job easier.
 
-I work mainly on:
+> ✝️ **Jesus is my foundation. Technology is my tool. Automation is how I make things simpler.**
+>
+> **Jesus é meu fundamento. A tecnologia é minha ferramenta. A automação é a forma que encontrei de tornar as coisas mais simples.**
 
-⚙️ **Intelligent Automation**  
-Designing workflows that replace repetitive operational tasks with reliable software.
+## What I work with
 
-🤖 **AI & Agents**  
-Exploring LLMs, RAG architectures and AI agents applied to real business processes.
+Most of my projects involve some combination of:
 
-🐍 **Python Backend**  
-Building APIs, services, integrations and automation platforms using Python.
+- 🐍 Python
+- ⚙️ Process automation
+- 🧩 Backend development
+- 🔌 APIs and integrations
+- 🌐 Selenium and browser automation
+- 🤖 AI, LLMs and RAG
+- 🗄️ Databases
+- 📊 Monitoring and alerts
+- 🛠️ Internal tools
+- ⚖️ LegalTech
 
-🔗 **Systems Integration**  
-Connecting APIs, databases, platforms, email systems and legacy environments.
+I've worked a lot with operational processes, where automation needs to deal with real systems, real users, unexpected errors and things that don't always behave the way the documentation says they should.
 
-📊 **Data & Monitoring**  
-Transforming operational data into monitoring, alerts and actionable information.
+That's probably the part I enjoy most.
 
----
+## Tech
 
-## 🧰 Tech Stack
+### 🐍 Main stack
 
-### Core
+![Python](https://img.shields.io/badge/🐍_Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/⚡_FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/🌶️_Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/🎸_Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### 🤖 Automation and AI
 
-### Automation & AI
+![Selenium](https://img.shields.io/badge/🌐_Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![OpenAI](https://img.shields.io/badge/🧠_AI_%26_LLMs-412991?style=flat-square)
+![n8n](https://img.shields.io/badge/⚙️_n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI%20%26%20LLMs-412991?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+### 🗄️ Data and infrastructure
 
-### Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/🐘_PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/🍃_MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/🐳_Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/🔀_Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ⚛️ Frontend
 
-### Frontend
+![React](https://img.shields.io/badge/⚛️_React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/🟨_JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+## Things I'm interested in
 
----
+Right now I'm especially interested in:
 
-## 🧠 What I'm interested in
+- 🤖 AI agents
+- 🧠 RAG
+- ⚙️ Intelligent automation
+- 🐍 Python backend
+- 🔄 Business process automation
+- 🔌 System integrations
+- ⚖️ LegalTech
+- 📊 Observability
+- 🛠️ Internal platforms and tools
 
-- AI Agents & Agentic Workflows
-- RAG architectures
-- Business Process Automation
-- API-first architectures
-- Python backend engineering
-- LegalTech
-- RPA
-- Observability & monitoring
-- Human + AI workflows
+I'm particularly interested in AI when it becomes part of a real workflow, instead of just being another chatbot.
 
----
+## What you'll find here
 
-## 🏗️ Featured Projects
+Some of the things I'm building or plan to share here include:
 
-### 🤖 Intelligent Process Automation
+### ⚙️ Process Automation
 
-Automation architecture designed to orchestrate repetitive business operations involving:
+Automations that connect websites, APIs, databases, emails and documents to reduce repetitive manual work.
 
-`Web Automation` • `APIs` • `Databases` • `Email` • `Documents` • `Monitoring`
+### 🧠 AI and RAG
 
-**Goal:** transform high-volume manual workflows into predictable automated pipelines.
+Experiments and architectures using LLMs, RAG and agents connected to business systems.
 
----
+### 📊 Automation Monitoring
 
-### 🧠 RAG & AI Agents Architecture
+Tools for tracking executions, errors, retries, logs and alerts.
 
-Architecture for production-oriented AI applications using:
+I learned pretty quickly that an automation without monitoring just creates a different kind of manual work.
 
-`LLMs` → `RAG` → `Tools` → `Agents` → `Business Systems`
+### 🔌 Systems Integration
 
-Focused on making AI useful inside real operational workflows rather than isolated chatbots.
+Projects that connect systems that were never really designed to talk to each other.
 
----
+Those are usually the fun ones.
 
-### ⚙️ Automation Monitoring
+## How I think about automation
 
-Monitoring layer for automated jobs with:
+I don't think every problem needs AI.
 
-- execution tracking
-- failure detection
-- automated alerts
-- operational logs
-- retry strategies
-- execution reports
+Sometimes a simple script is enough.
 
-Because an automation isn't really automated if someone has to constantly check whether it worked.
+Sometimes you need an API, a database and a queue.
 
----
+And sometimes AI really does make sense.
 
-### 🔌 Business Systems Integration
+I like understanding the process first and choosing the simplest solution that solves the problem well.
 
-Integrations between:
+## Languages
 
-**APIs ↔ Databases ↔ Web Platforms ↔ Documents ↔ Email ↔ Automation Bots**
+🇧🇷 Portuguese: Native  
+🇺🇸 English: Advanced  
+🇪🇸 Spanish: Intermediate
 
-Designed to remove manual data movement between systems.
-
----
-
-## 🎯 Engineering Philosophy
-
-> **Good automation doesn't just make a task faster.  
-> It removes the task from someone's day.**
-
-I enjoy working at the intersection of **software engineering, automation and business operations**, translating messy real-world processes into maintainable technology.
-
----
-
-## 🌎 Languages
-
-🇧🇷 Portuguese - Native  
-🇺🇸 English - Advanced  
-🇪🇸 Spanish - Intermediate  
-
----
-
-## 🤝 Let's connect
-
-I'm always interested in conversations about:
-
-**Automation • Artificial Intelligence • Python • Backend Engineering • AI Agents • LegalTech**
+## Contact
 
 💼 [LinkedIn](https://www.linkedin.com/in/daniel-ara%C3%BAjo-80159355/)
-
----
-
-### ⚡ Turning repetitive work into software.
